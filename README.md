@@ -1,6 +1,4 @@
-# fb4vamstar
-simplistic fb apis
-Features: 
-  Like
-  Post
-  Friend Request
+# Welcome
+Logic is the beginning of wisdom, not the end 🖖
+
+## Internal notes

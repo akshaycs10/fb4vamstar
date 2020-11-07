@@ -1,0 +1,7 @@
+{
+    "reporterEnabled": "spec, mocha-junit-reporter",
+    "mochaJunitReporterReporterOptions": {
+        "mochaFile": "unit.xml"
+    },
+    "mongodb": "mongodb://ushurUser:ushur@localhost:27017/menu"
+}
